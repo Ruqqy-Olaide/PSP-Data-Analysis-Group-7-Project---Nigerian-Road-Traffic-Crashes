@@ -1,0 +1,1 @@
+This repository is a project containing in-depth analysis on the Nigerian Road Traffic Crashes dataset. Analysis was carried out using Excel, Power BI and Python. The files included in this repository are the Excel file, Power BI files (pdf and pbix), a jupyter notebook file and a detailed report on the entire project (pdf). 
